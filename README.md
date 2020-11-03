@@ -1,1 +1,1 @@
-# dog-app-images-by-quantity
+# dog-app-1-50-images-to-DOM
